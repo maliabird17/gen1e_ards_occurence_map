@@ -25,4 +25,4 @@ source bin/activate/your_venv
 pip install -r requirements.txt
 ```
 
-After running `interactive_heatmap.ipynb`, open http://127.0.0.1:8000/ on your local browser to view and use the heatmap. 
+Then, run `interactive_heatmap.ipynb` and open http://127.0.0.1:8000/ on your local browser to view and use the heatmap. 
