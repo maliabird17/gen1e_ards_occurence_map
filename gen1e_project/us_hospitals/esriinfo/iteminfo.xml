@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>USA Hospitals</name>
+<guid>232878E4-1AD3-48D3-AEDE-599F8427F438</guid>
+<catalogpath></catalogpath>
+<snippet>This layer presents an automated inventory of the proper names and locations of Hospitals located throughout the United States and its Territories.</snippet>
+<description>This layer presents an automated inventory of the proper names and locations of Hospitals located throughout the United States and its Territories.
+
+U.S. Geographic Names Information System represents the Federal standard for geographic nomenclature and contains information about the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. The U.S. Geological Survey developed the Geographic Names Information System (GNIS) for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public.</description>
+<summary>This layer presents an automated inventory of the proper names and locations of Hospitals located throughout the United States and its Territories.</summary>
+<title>USA Hospitals</title>
+<tags>layer, point, hospital, place name, geographic feature, health, elevation, structure, United States, U.S. Commonwealths, U.S. Freely Associated States, U.S. Territories, 1981, 2019, 1974-Present</tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>File Geodatabase Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>ArcGlobe</typekeyword>
+<typekeyword>ArcGIS Explorer</typekeyword>
+<typekeyword>lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-170.6844444</xmin>
+<ymin>-14.2952778</ymin>
+<xmax>158.2163889</xmax>
+<ymax>71.2972339</ymax>
+</extent>
+<spatialreference>GCS_WGS_1984</spatialreference>
+<accessinformation>Esri, United States Geological Survey, U.S. Geographic Names Information System</accessinformation>
+<licenseinfo>The datasets included within ArcGIS Data and Maps are subject to varying redistribution rights that have been granted by Esri’s third party data suppliers. Consult the Redistribution Rights document to determine the ways in which Licensee is permitted to use and redistribute each specific dataset and the applicable disclaimers, attribution requirements, and other conditions of use.</licenseinfo>
+</ESRI_ItemInformation>
