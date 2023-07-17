@@ -1,9 +1,9 @@
 # Predicting ARDS occurrence in the USA for 2023
 
 ### Overview of Repo: 
-- `gen1e_project`: Data Folder: includes the processed csv used for neural forecasting and original data from 
-- `heatmap-processing.ipynb`: main Python notebook used for data processing, modelling, and prediction
-- `visualization.ipynb`: Python notebook used to generate the interactive heatmap and heatmap plots found in the report
+- `gen1e_project`: Data Folder: includes the processed csv used for the heatmap (`visualization_data.csv`), as well and original data from the CDC, NIS, and County Health Rankings used in this analysis. 
+- `heatmap-processing.ipynb`: main Python notebook used for data processing, modelling, and prediction.
+- `interactive_heatmap.ipynb`: Python notebook used to generate the interactive heatmap.
 
 ### Replicating Results 
 
