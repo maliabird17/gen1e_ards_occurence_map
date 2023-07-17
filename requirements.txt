@@ -44,7 +44,7 @@ fastjsonschema==2.17.1
 filelock==3.12.2
 Fiona==1.9.4.post1
 Flask==2.2.5
-fonttools==4.41.0
+fonttools==4.38.0
 frozenlist==1.4.0
 fs==2.4.16
 fsspec==2023.6.0
@@ -171,6 +171,7 @@ tsdownsample==0.1.2
 typeguard==2.13.3
 typing_extensions==4.7.1
 urllib3==2.0.3
+urlopen==1.0.0
 wcwidth==0.2.6
 webargs==8.3.0
 webencodings==0.5.1
