@@ -55,7 +55,7 @@ graphviz==0.20.1
 hijri-converter==2.3.1
 holidays==0.28
 html2image==2.0.3
-httpstan==4.10.1
+# httpstan==4.10.1
 idna==3.4
 imgkit==1.2.3
 importlib-metadata==6.8.0
